@@ -23,15 +23,16 @@ void mandelbrot(double x, double y) {
 }
 
 int main() {
-	mandelbrot(0.5,0.5);
+	// mandelbrot(0.5,0.5);
 
-	for(double i=0.0; i <= 53; i++) {
-		for(double j=0.0; j<=80; j++) {
-			double x_coefficent = 3.0 / 53.0;
-			double y_coefficent = 2.0 / 80.0;
+	for(double row=0.0; row <= 53; row++) {
+		for(double column=0.0; column<=80; column++) {
+			double x_coefficent = 3.0 / 80.0;
+			double y_coefficent = 2.0 / 53.0;
 
-			double x = (i * x_coefficent) - 1.5;
-			double y = (j * y_coefficent) - 1;
+			
+			double x = (column * y_coefficent) - 1.5;
+			double y = (row * x_coefficent) - 1;
 			// printf("%f %f\n", x, y);
 			mandelbrot(x,y);
 		}
@@ -40,3 +41,4 @@ int main() {
 
 
 }
+
