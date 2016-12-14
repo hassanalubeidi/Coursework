@@ -1,0 +1,116 @@
+
+**** Build of configuration Debug for project eclipse_cw ****
+
+Nothing to build for project eclipse_cw
+17:34:58 **** Incremental Build of configuration Debug for project eclipse_cw ****
+make all 
+Building file: ../cw.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"cw.d" -MT"cw.d" -o "cw.o" "../cw.c"
+../cw.c: In function ‘filter_user’:
+../cw.c:103:9: warning: unused variable ‘count’ [-Wunused-variable]
+     int count=0;
+         ^
+Finished building: ../cw.c
+ 
+Building target: eclipse_cw
+Invoking: GCC C Linker
+gcc  -o "eclipse_cw"  ./cw.o   
+Finished building target: eclipse_cw
+ 
+17:35:11 **** Incremental Build of configuration Debug for project eclipse_cw ****
+make all 
+make: Nothing to be done for `all'.
+17:35:47 **** Incremental Build of configuration Debug for project eclipse_cw ****
+make all 
+make: Nothing to be done for `all'.
+17:42:59 **** Incremental Build of configuration Debug for project eclipse_cw ****
+make all 
+make: Nothing to be done for `all'.
+17:43:07 **** Incremental Build of configuration Debug for project eclipse_cw ****
+make all 
+make: Nothing to be done for `all'.
+17:43:36 **** Incremental Build of configuration Debug for project eclipse_cw ****
+make all 
+make: Nothing to be done for `all'.
+17:44:22 **** Incremental Build of configuration Debug for project eclipse_cw ****
+make all 
+make: Nothing to be done for `all'.
+17:44:53 **** Incremental Build of configuration Debug for project eclipse_cw ****
+make all 
+make: Nothing to be done for `all'.
+17:44:57 **** Incremental Build of configuration Debug for project eclipse_cw ****
+make all 
+make: Nothing to be done for `all'.
+17:45:29 **** Incremental Build of configuration Debug for project eclipse_cw ****
+make all 
+make: Nothing to be done for `all'.
+17:46:14 **** Incremental Build of configuration Debug for project eclipse_cw ****
+make all 
+make: Nothing to be done for `all'.
+17:47:17 **** Incremental Build of configuration Debug for project eclipse_cw ****
+make all 
+make: Nothing to be done for `all'.
+17:47:26 **** Incremental Build of configuration Debug for project eclipse_cw ****
+make all 
+make: Nothing to be done for `all'.
+17:47:54 **** Incremental Build of configuration Debug for project eclipse_cw ****
+make all 
+Building file: ../cw.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"cw.d" -MT"cw.d" -o "cw.o" "../cw.c"
+../cw.c: In function ‘filter_user’:
+../cw.c:103:9: warning: unused variable ‘count’ [-Wunused-variable]
+     int count=0;
+         ^
+Finished building: ../cw.c
+ 
+Building target: eclipse_cw
+Invoking: GCC C Linker
+gcc  -o "eclipse_cw"  ./cw.o   
+Finished building target: eclipse_cw
+ 
+17:48:30 **** Incremental Build of configuration Debug for project eclipse_cw ****
+make all 
+make: Nothing to be done for `all'.
+17:50:08 **** Incremental Build of configuration Debug for project eclipse_cw ****
+make all 
+Building file: ../cw.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"cw.d" -MT"cw.d" -o "cw.o" "../cw.c"
+../cw.c: In function ‘filter_user’:
+../cw.c:103:9: warning: unused variable ‘count’ [-Wunused-variable]
+     int count=0;
+         ^
+Finished building: ../cw.c
+ 
+Building target: eclipse_cw
+Invoking: GCC C Linker
+gcc  -o "eclipse_cw"  ./cw.o   
+Finished building target: eclipse_cw
+ 
+17:50:32 **** Incremental Build of configuration Debug for project eclipse_cw ****
+make all 
+make: Nothing to be done for `all'.
+17:51:52 **** Incremental Build of configuration Debug for project eclipse_cw ****
+make all 
+make: Nothing to be done for `all'.
+17:52:05 **** Incremental Build of configuration Debug for project eclipse_cw ****
+make all 
+make: Nothing to be done for `all'.
+17:53:17 **** Incremental Build of configuration Debug for project eclipse_cw ****
+make all 
+Building file: ../cw.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"cw.d" -MT"cw.d" -o "cw.o" "../cw.c"
+../cw.c: In function ‘filter_user’:
+../cw.c:103:9: warning: unused variable ‘count’ [-Wunused-variable]
+     int count=0;
+         ^
+Finished building: ../cw.c
+ 
+Building target: eclipse_cw
+Invoking: GCC C Linker
+gcc  -o "eclipse_cw"  ./cw.o   
+Finished building target: eclipse_cw
+ 
